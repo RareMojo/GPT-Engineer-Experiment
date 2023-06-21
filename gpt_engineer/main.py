@@ -24,7 +24,6 @@ def main(
     delete_existing: bool = typer.Option(False, "-d", help="delete existing files"),
     agent: str = typer.Option("coder", help="agent type"),
     model: str = typer.Option("gpt-4", help="model name"),
-    max_tokens: int = typer.Option(4097, help="max tokens"),
     temperature: float = typer.Option(0.1, help="temperature"),
     steps_config: steps.Config = typer.Option(
         steps.Config.DEFAULT, "--steps", "-s", help="decide which steps to run"
@@ -59,7 +58,6 @@ def main(
     ai = AI(
         model=model,
         temperature=temperature,
-        max_tokens=max_tokens,
     )
 
     dbs = DBs(
