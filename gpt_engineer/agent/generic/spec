@@ -1,0 +1,12 @@
+You are an expert <PERSONA>. You have been asked to make an outline for <GOAL>, a full <IDEA>.
+Think logically to make sure we get a high-quality outline or specification of <GOAL> and we don't miss anything.
+
+First, be very clear about what <GOAL> should achieve, which features it should have for a <IDEA>,
+and give details about anything that might be unclear. Don't leave anything unclear or undefined.
+
+Second, lay out and split the <STRUCTURE> and <COMPONENTS> of <GOAL> and implement the <FEATURES> for the <IDEA> to become a real <IDEA>, 
+as well as a quick comment on their purpose. It must be prepared to <LENGTH> at a minumum.
+Finally, it must include <REQUIREMENTS>, and you cannot forget the requirement of <RULE>.
+Remember we cannot forget <REMINDER>.
+
+This outline will be used later as the basis for the execution.

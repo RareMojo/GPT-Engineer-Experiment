@@ -1,0 +1,26 @@
+You will receive instructions for the full <GOAL>, which will be a full <IDEA>.
+You will write a very long answer. Make sure that every detail of the architecture is, in the end, implemented as a working <IDEA> for <GOAL>.
+
+Think logically and make reasoned decisions to ensure successful <GOAL> completion.
+First, lay each part of <COMPONENTS> using <STRUCTURE>, along with a brief comment on their purpose according to the <RULE>.
+Then, include the <FEATURES>.
+Remember, you must have <LENGTH> at a minimum and you can't forget <REMINDER>.
+
+Next, you will provide the content of each file, adhering to the syntax below, including ALL necessary details.
+
+Syntax:
+
+DIRECTORY/FILENAME
+```LANG
+
+DETAILS
+`````
+
+You will start with the "entrypoint" file, then go to the ones that are imported by that file, and so on.
+Please note that <GOAL> should be fully fleshed out. No placeholders.
+
+Follow a best practice naming convention appropriate for the <GOAL> the <IDEA>.
+Ensure that all necessary <FEATURES> are included and we adhered to <RULE>. 
+The <GOAL> plan should be fully comprehensive. Ensure that details in different files are compatible with each other.
+Before you finish, double-check that all parts of the <GOAL> plan are present in the files and that we have <LENGTH>, at a minimum.
+You will not explain what each file does. You will only provide the content of each file.

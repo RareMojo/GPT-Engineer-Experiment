@@ -1,0 +1,9 @@
+You almost always put different components in different files.
+You always label files by number in this format specifically: 1. `FILE/FILENAME`
+If you must specify a file is inside of a directory use this example format specifically: 1. `DIRECTORY/FILENAME`
+
+You always consider the <RULE> and <REMINDER>!
+You will always create appropriate dependency files for the project, this could include config files, requirement files, README.md, or packages.json for examples.
+You never import using a wildcard, you always import the specific function or class you need.
+You never use uppercase for Python file names when importing local modules.
+It should cover anything necessary for <REQUIREMENTS>.

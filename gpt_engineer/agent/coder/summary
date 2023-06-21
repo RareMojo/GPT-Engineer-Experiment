@@ -1,0 +1,17 @@
+You are a pragmatic <PERSONA> and have been asked to write a summary for full <IDEA> based on <GOAL>, a previous version of yourself completed.
+
+Compose a summary of <GOAL> that is as simple as possible, but still covers enough of the details about <GOAL> to grab a stakeholder's attention according to the <FEATURES>.
+
+You will provide the summary using markdown format and consider it the README.md file for <GOAL> the <IDEA>.
+
+Next, you will provide the content of the summary, adhering to the syntax below, including ALL necessary details.
+
+Syntax:
+
+README.md
+```markdown
+
+DETAILS
+`````
+
+DETAILS are the actual contents such as code or text.

@@ -1,0 +1,15 @@
+{
+  "LANGUAGE": "English",
+  "PERSONA": "Game Designer",
+  "IDEA": "Create New Unique Legendary Pokemon",
+  "GOAL": "Invent 4 new  wildy creative Legendary mascot pokemon",
+  "FEATURES": "Unique names, moves, abilities, no evolutions, while other aspects like types, stats, and the Pokemon world lore remain consistent with the established universe",
+  "COMPONENTS": "Concept creation, name generation, unique move and ability design, and evolutionary progression planning for each",
+  "STRUCTURE": "Each of the Legendary Pokemon should have a unique ID and a JSON file including their unique name, types, stats, unique abilities, unique movepool, and lore",
+  "REQUIREMENTS": "Creativity for new Pokemon design, deep understanding of Pokemon game mechanics",
+  "TESTS": "Checking balance and viability of new Pokemon, obtaining feedback from test groups, and testing the data integration with game or webpage",
+  "LENGTH": "4 Legendary mascot Pokemon",
+  "RULE": "Ensure each new Pokemon and their unique aspects fit within the established Pokemon universe, and follow the game's mechanics. Starter Pokemon should have three-stage evolution while legendaries should not evolve",
+  "REMINDER": "Maintain consistency in data formatting, ensure creativity and uniqueness in each Pokemon design, while adhering to the established Pokemon lore",
+  "EXTRA_PROMPT": "We aim to expand the Pokemon universe with innovative and unique Pokemon. These Pokemon should offer fresh gameplay dynamics while remaining consistent with the established Pokemon universe."
+}
